@@ -1,0 +1,19 @@
+{
+  "name": "testgit2",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmadaan/Testgit2.git"
+  },
+  "author": "Dev Madaan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmadaan/Testgit2/issues"
+  },
+  "homepage": "https://github.com/devmadaan/Testgit2#readme"
+}
